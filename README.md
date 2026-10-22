@@ -14,7 +14,7 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 
 </p>
 <p>
-Assigned User Network Administrator for Carlos Sand.
+Assigned User Network Administrator and directory reader for Carlos Sand.
 </p>
 <br />
 <p>
